@@ -26,8 +26,6 @@ and additionally in test:
 Including but not limited to:
 * Spring Framework/Spring Boot
 * Finatra
-* Tomcat
-
 
 * Jackson
 * Logback + Logstash
@@ -37,6 +35,7 @@ Including but not limited to:
 * JUnit/TestNG
 * Mockito/PowerMock
 * WireMock/MockServer
+* TestContainers (for Toxiproxy)
 
 
 ## Other Technologies
@@ -61,7 +60,7 @@ Including but not limited to:
 * Asynchronous programming
 * Pair programming
 * Unit, integration, and acceptance testing
-* Microservices (including creation)
+* Microservices
 * Circuit breaker pattern
 * DevOps things such as (but not limited to):
  * Monitoring
@@ -84,7 +83,7 @@ See [my LinkedIn](https://www.linkedin.com/in/benjaminswoolley/) for more detail
 
 ## Hotels.com (Current)
 ### Software Developer 1 (August 2018 - Present)
-I have additionally been carrying out coding interviews for Java roles under this role.
+I have additionally been carrying out coding interviews for Java and Scala roles under this role.
 
 #### Scala team (November 2018 - Present)
 A team solely working in Scala, maintaining both dateful and dateless pricing services in addition to pre-select. The team prefers pair programming as a default and I've been enjoying this as a practice.
@@ -110,6 +109,7 @@ Working in a tiger team to write a new microservice to replace a legacy pricing 
 
 # Recreation
 I also:
-* Teach [Java to beginners](https://ben-woolley.github.io/java-for-beginners/) internally every quarter
+* Teach [Java to beginners](https://ben-woolley.github.io/java-for-beginners-docs/) internally every quarter
 * Bake (I bake for my team *hint hint*)
+* Run (or at least try)
 * Play video games
