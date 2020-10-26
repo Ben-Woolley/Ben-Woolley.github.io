@@ -1,5 +1,5 @@
 # Ben Woolley  
-Back-end software developer
+Back-end Scala software engineer
 
 - [Skills](#skills)
 	- [Languages](#languages)
@@ -14,28 +14,25 @@ Back-end software developer
 # Skills
 ## Languages
 In order of experience:
-* Java 8
-* Kotlin
+* Java
 * Scala
-
-and additionally in test:
-* Cucumber/Gherkin
-* Groovy
+* Kotlin
 
 ## Libraries
 Including but not limited to:
 * Spring Framework/Spring Boot
 * Finatra
+* http4s
 
-* Jackson
+* Jackson/Circe
 * Logback + Logstash
 * Swagger UI (Spring and Finatra)
 
 
-* JUnit/TestNG
-* Mockito/PowerMock
+* JUnit/TestNG/Scalatest
+* Mockito/PowerMock/ScalaMock
 * WireMock/MockServer
-* TestContainers (for Toxiproxy)
+* TestContainers/ServiceBox
 
 
 ## Other Technologies
@@ -81,11 +78,14 @@ Including but not limited to:
 # Experience
 See [my LinkedIn](https://www.linkedin.com/in/benjaminswoolley/) for more detail.
 
-## Hotels.com (Current)
-### Software Developer 1 (August 2018 - Present)
+## ITV (Current)
+A more functional Scala team, using http4s with Circe with heavy use of microservices and event-driven services (SQS consumers and AWS Lambda).
+
+## Hotels.com (July 2017 - August 2020)
+### Software Developer 1 (August 2018 - August 2020)
 I have additionally been carrying out coding interviews for Java and Scala roles under this role.
 
-#### Scala team (November 2018 - Present)
+#### Scala team (November 2018 - August 2020)
 A team solely working in Scala, maintaining both dateful and dateless pricing services in addition to pre-select. The team prefers pair programming as a default and I've been enjoying this as a practice.
 
 * Contributed to the migration of the oldest application from Spring MVC to Finatra. I spiked the problem and created the plan of action to carry out the migration without slowing down development or compromising test coverage.
