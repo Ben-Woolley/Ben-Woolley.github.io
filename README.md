@@ -8,7 +8,6 @@ Back-end Scala software engineer
 	- [Principles or Practices](#principles-or-practices)
 	- [Soft skills](#soft-skills)
 - [Experience](#experience)
-	- [Hotels.com (Current)](#hotelscom-current)
 - [Recreation](#recreation)
 
 # Skills
